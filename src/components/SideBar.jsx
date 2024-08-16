@@ -34,7 +34,7 @@ export const SideBar = ({ show, handleClose }) => {
       }}
     >
       <Offcanvas.Header closeButton>
-        <Offcanvas.Title>QuickPik</Offcanvas.Title>
+        <Offcanvas.Title>Billionier</Offcanvas.Title>
       </Offcanvas.Header>
       <Offcanvas.Body className="p-0">
         <ul className="list-group">

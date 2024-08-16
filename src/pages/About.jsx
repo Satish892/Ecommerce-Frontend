@@ -10,7 +10,7 @@ export const About = () => {
         </Col>
         <Col className="text-center" md={12}>
           <p>
-            At QuickPik, we're passionate about providing you with a seamless
+            At Billionire, we're passionate about providing you with a seamless
             online shopping experience for all your electronic needs. Whether
             you're searching for the hottest smartphones, cutting-edge laptops,
             or innovative smart home devices, we've got you covered. With our
@@ -39,7 +39,7 @@ export const About = () => {
                     ensuring that you'll find the ideal device to suit your
                     needs and preferences. From flagship smartphones that
                     redefine mobile technology to powerful laptops that fuel
-                    your productivity, QuickPik is your gateway to the latest
+                    your productivity, Billionire is your gateway to the latest
                     advancements in the electronic realm.
                   </p>
                 </Col>
@@ -59,7 +59,7 @@ export const About = () => {
                 >
                   <h4>Simplified Shopping Experience</h4>
                   <p>
-                    At QuickPik, we understand the importance of simplicity and
+                    At Billionire, we understand the importance of simplicity and
                     convenience when it comes to online shopping. Our intuitive
                     platform has been designed with you in mind, making it
                     effortless to navigate through our product categories,
@@ -90,7 +90,7 @@ export const About = () => {
                   <p>
                     We believe that exceptional customer service is the
                     foundation of a successful e-commerce business. That's why
-                    our dedicated team at QuickPik is committed to providing you
+                    our dedicated team at Billionire is committed to providing you
                     with unrivaled support throughout your shopping journey.
                     Whether you have a question about a product, need assistance
                     with an order, or simply want personalized recommendations,

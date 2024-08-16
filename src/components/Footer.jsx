@@ -26,11 +26,11 @@ export default function Footer() {
                   width={80}
                   fluid="true"
                   className="d-inline-block align-top"
-                  alt="QuickPik Logo"
+                  alt="Billionire Logo"
                 />
                 <div className="d-flex flex-column justify-content-center">
                   <h4 className="m-0" style={{ fontSize: "1.2rem" }}>
-                    QuickPik
+                    Billionire
                   </h4>
                   <small style={{ fontSize: "0.9rem" }}>
                     Rapid Reflection, Swift Selection
@@ -107,7 +107,7 @@ export default function Footer() {
                   <i className="fa-brands fa-twitter fs-4"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/sourav009/"
+                  href="https://www.linkedin.com/in/gongadasatish"
                   className="nav-link"
                   target="_blank"
                   rel="noreferrer"
@@ -128,7 +128,7 @@ export default function Footer() {
           <Row className="text-white text-center">
             <Col className="pb-2">
               <small>
-                Copyright &copy; QuickPik, {currentYear} | All Rights Reserved
+                Copyright &copy; Billionier, {currentYear} | All Rights Reserved
               </small>
             </Col>
           </Row>

@@ -18,7 +18,7 @@ export const Contact = () => {
                 <Col xs={{ span: 4, offset: 3 }} md={{ span: 4, offset: 0 }}>
                   <img
                     src="/assets/sourav.png"
-                    alt="Sourav Choudhary"
+                    alt="Excelr"
                     className="img-fluid"
                     style={{
                       width: "100%",
@@ -28,12 +28,12 @@ export const Contact = () => {
                 <Col md={8}>
                   <h5 className="m-0 product-title">
                     <a
-                      href="https://www.linkedin.com/in/sourav009/"
+                      href="https://www.linkedin.com/in/gongadasatish"
                       target="_blank"
                       rel="noreferrer"
                       className="nav-link p-0"
                     >
-                      Sourav Choudhary
+                      Satish Kumar
                       <i
                         className="fa-brands fa-linkedin ms-2"
                         style={{ color: "#0072b1" }}
@@ -50,13 +50,13 @@ export const Contact = () => {
                     environments
                   </p>
                   <a
-                    href="mailto:souravchoudhary1998@gmail.com"
+                    href="mailto:gongadasatish1999@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="fa-solid fa-envelope text-muted fs-5 me-2"></i>
                   </a>
-                  <small>souravchoudhary1998@gmail.com</small>
+                  <small>gongadasatish1999@gmail.com</small>
                 </Col>
               </Row>
             </Card.Body>

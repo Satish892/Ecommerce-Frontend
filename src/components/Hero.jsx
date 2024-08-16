@@ -48,7 +48,7 @@ export default function Hero({ title, description, children }) {
               style={{ width: "100%" }}
               fluid="true"
               className="d-inline-block align-top"
-              alt="QuickPik Logo"
+              alt="Billionire Logo"
             />
           </Col>
         </Row>
