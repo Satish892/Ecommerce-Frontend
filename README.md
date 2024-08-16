@@ -1,8 +1,8 @@
-# QuickPik E-commerce Platform
-Welcome to QuickPik, the one-stop shop for all your online shopping needs! Our e-commerce platform is built using ReactJS and is specifically tailored for selling electronic products.
+# Billionire E-commerce Platform
+Welcome to Billionire, the one-stop shop for all your online shopping needs! Our e-commerce platform is built using ReactJS and is specifically tailored for selling electronic products.
 
 ### Getting Started
-To get started using QuickPik, simply create an account and start browsing our selection of electronic products. You can add items to your cart and check out. As an administrator, you will have access to a dashboard where you can manage orders, products, categories, and users.
+To get started using Billionire, simply create an account and start browsing our selection of electronic products. You can add items to your cart and check out. As an administrator, you will have access to a dashboard where you can manage orders, products, categories, and users.
 
 ### Key Features
 Our e-commerce platform offers the following key features:
@@ -32,4 +32,4 @@ Our e-commerce platform was built using the following technologies:
 - [x] TinyMCE
 - [x] Formik
 
-Check out the backend repository [here](https://github.com/sourav0098/e-commerce-backend)"# E-commerce-" 
+Check out the backend repository [here](https://github.com/Satish892/Ecommerce-Backend.git)"# E-commerce-" 
