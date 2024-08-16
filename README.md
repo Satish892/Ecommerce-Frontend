@@ -32,4 +32,4 @@ Our e-commerce platform was built using the following technologies:
 - [x] TinyMCE
 - [x] Formik
 
-Check out the backend repository [here](https://github.com/Satish892/Ecommerce-Backend.git)"# E-commerce-" 
+Check out the backend repository [here](https://github.com/Satish892/Ecommerce-Backend.git)"# E-commerce-Backend" 
